@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671070682525",
+    "project_id": "girisyapapi",
+    "storage_bucket": "girisyapapi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671070682525:android:9ba4ee9f637912561a8374",
+        "android_client_info": {
+          "package_name": "com.girisyapapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmbRzpAWVBczGRWUHda-0kUlZLuzWdnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
